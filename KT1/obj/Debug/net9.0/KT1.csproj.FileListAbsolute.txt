@@ -12,3 +12,4 @@ E:\Marco's documents\FTN Studije\VI semestar\SNUS\KT1\KT1\obj\Debug\net9.0\refin
 E:\Marco's documents\FTN Studije\VI semestar\SNUS\KT1\KT1\obj\Debug\net9.0\KT1.pdb
 E:\Marco's documents\FTN Studije\VI semestar\SNUS\KT1\KT1\obj\Debug\net9.0\KT1.genruntimeconfig.cache
 E:\Marco's documents\FTN Studije\VI semestar\SNUS\KT1\KT1\obj\Debug\net9.0\ref\KT1.dll
+E:\Marco's documents\FTN Studije\VI semestar\SNUS\KT1\KT1\obj\Debug\net9.0\KT1.sourcelink.json

@@ -8,7 +8,7 @@ class Program
 {
     static async Task Main(string[] args)
     {
-        var config = SystemConfigParser.Parse("config.xml");
+        var config = SystemConfigParser.Parse("SystemConfig.xml");
 
         var reportService = new ReportService();
 
