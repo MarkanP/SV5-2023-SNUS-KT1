@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Marco\u0027s documents\\FTN Studije\\VI semestar\\SNUS\\KT1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B57C318-DF75-4C2A-97C1-0F0634C5FB41}|KT1\\KT1.csproj|e:\\marco\u0027s documents\\ftn studije\\vi semestar\\snus\\kt1\\kt1\\core\\processingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B57C318-DF75-4C2A-97C1-0F0634C5FB41}|KT1\\KT1.csproj|solutionrelative:kt1\\core\\processingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B57C318-DF75-4C2A-97C1-0F0634C5FB41}|KT1\\KT1.csproj|e:\\marco\u0027s documents\\ftn studije\\vi semestar\\snus\\kt1\\kt1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B57C318-DF75-4C2A-97C1-0F0634C5FB41}|KT1\\KT1.csproj|solutionrelative:kt1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B57C318-DF75-4C2A-97C1-0F0634C5FB41}|KT1\\KT1.csproj|e:\\marco\u0027s documents\\ftn studije\\vi semestar\\snus\\kt1\\kt1\\infrastructure\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B57C318-DF75-4C2A-97C1-0F0634C5FB41}|KT1\\KT1.csproj|solutionrelative:kt1\\infrastructure\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B57C318-DF75-4C2A-97C1-0F0634C5FB41}|KT1\\KT1.csproj|e:\\marco\u0027s documents\\ftn studije\\vi semestar\\snus\\kt1\\kt1\\core\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B57C318-DF75-4C2A-97C1-0F0634C5FB41}|KT1\\KT1.csproj|solutionrelative:kt1\\core\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B57C318-DF75-4C2A-97C1-0F0634C5FB41}|KT1\\KT1.csproj|e:\\marco\u0027s documents\\ftn studije\\vi semestar\\snus\\kt1\\kt1\\service\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B57C318-DF75-4C2A-97C1-0F0634C5FB41}|KT1\\KT1.csproj|solutionrelative:kt1\\service\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B57C318-DF75-4C2A-97C1-0F0634C5FB41}|KT1\\KT1.csproj|e:\\marco\u0027s documents\\ftn studije\\vi semestar\\snus\\kt1\\kt1\\model\\jobexecutioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B57C318-DF75-4C2A-97C1-0F0634C5FB41}|KT1\\KT1.csproj|solutionrelative:kt1\\model\\jobexecutioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B57C318-DF75-4C2A-97C1-0F0634C5FB41}|KT1\\KT1.csproj|e:\\marco\u0027s documents\\ftn studije\\vi semestar\\snus\\kt1\\kt1\\model\\jobhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B57C318-DF75-4C2A-97C1-0F0634C5FB41}|KT1\\KT1.csproj|solutionrelative:kt1\\model\\jobhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B57C318-DF75-4C2A-97C1-0F0634C5FB41}|KT1\\KT1.csproj|e:\\marco\u0027s documents\\ftn studije\\vi semestar\\snus\\kt1\\kt1\\core\\iprocessingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B57C318-DF75-4C2A-97C1-0F0634C5FB41}|KT1\\KT1.csproj|solutionrelative:kt1\\core\\iprocessingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B57C318-DF75-4C2A-97C1-0F0634C5FB41}|KT1\\KT1.csproj|e:\\marco\u0027s documents\\ftn studije\\vi semestar\\snus\\kt1\\kt1\\systemconfig.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8B57C318-DF75-4C2A-97C1-0F0634C5FB41}|KT1\\KT1.csproj|solutionrelative:kt1\\systemconfig.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B57C318-DF75-4C2A-97C1-0F0634C5FB41}|KT1\\KT1.csproj|e:\\marco\u0027s documents\\ftn studije\\vi semestar\\snus\\kt1\\kt1\\config\\systemconfigparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B57C318-DF75-4C2A-97C1-0F0634C5FB41}|KT1\\KT1.csproj|solutionrelative:kt1\\config\\systemconfigparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B57C318-DF75-4C2A-97C1-0F0634C5FB41}|KT1\\KT1.csproj|e:\\marco\u0027s documents\\ftn studije\\vi semestar\\snus\\kt1\\kt1\\service\\jobexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B57C318-DF75-4C2A-97C1-0F0634C5FB41}|KT1\\KT1.csproj|solutionrelative:kt1\\service\\jobexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B57C318-DF75-4C2A-97C1-0F0634C5FB41}|KT1\\KT1.csproj|e:\\marco\u0027s documents\\ftn studije\\vi semestar\\snus\\kt1\\kt1\\service\\jobparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B57C318-DF75-4C2A-97C1-0F0634C5FB41}|KT1\\KT1.csproj|solutionrelative:kt1\\service\\jobparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B57C318-DF75-4C2A-97C1-0F0634C5FB41}|KT1\\KT1.csproj|e:\\marco\u0027s documents\\ftn studije\\vi semestar\\snus\\kt1\\kt1\\infrastructure\\threadsafepriorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B57C318-DF75-4C2A-97C1-0F0634C5FB41}|KT1\\KT1.csproj|solutionrelative:kt1\\infrastructure\\threadsafepriorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B57C318-DF75-4C2A-97C1-0F0634C5FB41}|KT1\\KT1.csproj|e:\\marco\u0027s documents\\ftn studije\\vi semestar\\snus\\kt1\\kt1\\model\\jobtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B57C318-DF75-4C2A-97C1-0F0634C5FB41}|KT1\\KT1.csproj|solutionrelative:kt1\\model\\jobtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B57C318-DF75-4C2A-97C1-0F0634C5FB41}|KT1\\KT1.csproj|e:\\marco\u0027s documents\\ftn studije\\vi semestar\\snus\\kt1\\kt1\\model\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B57C318-DF75-4C2A-97C1-0F0634C5FB41}|KT1\\KT1.csproj|solutionrelative:kt1\\model\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "E:\\Marco\u0027s documents\\FTN Studije\\VI semestar\\SNUS\\KT1\\KT1\\service\\ReportService.cs",
+              "RelativeDocumentMoniker": "KT1\\service\\ReportService.cs",
+              "ToolTip": "E:\\Marco\u0027s documents\\FTN Studije\\VI semestar\\SNUS\\KT1\\KT1\\service\\ReportService.cs",
+              "RelativeToolTip": "KT1\\service\\ReportService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T21:21:58.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobExecutionInfo.cs",
+              "DocumentMoniker": "E:\\Marco\u0027s documents\\FTN Studije\\VI semestar\\SNUS\\KT1\\KT1\\model\\JobExecutionInfo.cs",
+              "RelativeDocumentMoniker": "KT1\\model\\JobExecutionInfo.cs",
+              "ToolTip": "E:\\Marco\u0027s documents\\FTN Studije\\VI semestar\\SNUS\\KT1\\KT1\\model\\JobExecutionInfo.cs",
+              "RelativeToolTip": "KT1\\model\\JobExecutionInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T21:21:32.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "E:\\Marco\u0027s documents\\FTN Studije\\VI semestar\\SNUS\\KT1\\KT1\\core\\Worker.cs",
+              "RelativeDocumentMoniker": "KT1\\core\\Worker.cs",
+              "ToolTip": "E:\\Marco\u0027s documents\\FTN Studije\\VI semestar\\SNUS\\KT1\\KT1\\core\\Worker.cs",
+              "RelativeToolTip": "KT1\\core\\Worker.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:30:38.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JobExecutor.cs",
+              "DocumentMoniker": "E:\\Marco\u0027s documents\\FTN Studije\\VI semestar\\SNUS\\KT1\\KT1\\service\\JobExecutor.cs",
+              "RelativeDocumentMoniker": "KT1\\service\\JobExecutor.cs",
+              "ToolTip": "E:\\Marco\u0027s documents\\FTN Studije\\VI semestar\\SNUS\\KT1\\KT1\\service\\JobExecutor.cs",
+              "RelativeToolTip": "KT1\\service\\JobExecutor.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T15:25:08.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JobParser.cs",
+              "DocumentMoniker": "E:\\Marco\u0027s documents\\FTN Studije\\VI semestar\\SNUS\\KT1\\KT1\\service\\JobParser.cs",
+              "RelativeDocumentMoniker": "KT1\\service\\JobParser.cs",
+              "ToolTip": "E:\\Marco\u0027s documents\\FTN Studije\\VI semestar\\SNUS\\KT1\\KT1\\service\\JobParser.cs",
+              "RelativeToolTip": "KT1\\service\\JobParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T14:13:09.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "E:\\Marco\u0027s documents\\FTN Studije\\VI semestar\\SNUS\\KT1\\KT1\\infrastructure\\Logger.cs",
+              "RelativeDocumentMoniker": "KT1\\infrastructure\\Logger.cs",
+              "ToolTip": "E:\\Marco\u0027s documents\\FTN Studije\\VI semestar\\SNUS\\KT1\\KT1\\infrastructure\\Logger.cs",
+              "RelativeToolTip": "KT1\\infrastructure\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T14:07:52.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ThreadSafePriorityQueue.cs",
+              "DocumentMoniker": "E:\\Marco\u0027s documents\\FTN Studije\\VI semestar\\SNUS\\KT1\\KT1\\infrastructure\\ThreadSafePriorityQueue.cs",
+              "RelativeDocumentMoniker": "KT1\\infrastructure\\ThreadSafePriorityQueue.cs",
+              "ToolTip": "E:\\Marco\u0027s documents\\FTN Studije\\VI semestar\\SNUS\\KT1\\KT1\\infrastructure\\ThreadSafePriorityQueue.cs",
+              "RelativeToolTip": "KT1\\infrastructure\\ThreadSafePriorityQueue.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T13:29:20.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProcessingSystem.cs",
+              "DocumentMoniker": "E:\\Marco\u0027s documents\\FTN Studije\\VI semestar\\SNUS\\KT1\\KT1\\core\\IProcessingSystem.cs",
+              "RelativeDocumentMoniker": "KT1\\core\\IProcessingSystem.cs",
+              "ToolTip": "E:\\Marco\u0027s documents\\FTN Studije\\VI semestar\\SNUS\\KT1\\KT1\\core\\IProcessingSystem.cs",
+              "RelativeToolTip": "KT1\\core\\IProcessingSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:03:21.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SystemConfig.xml",
+              "DocumentMoniker": "E:\\Marco\u0027s documents\\FTN Studije\\VI semestar\\SNUS\\KT1\\KT1\\SystemConfig.xml",
+              "RelativeDocumentMoniker": "KT1\\SystemConfig.xml",
+              "ToolTip": "E:\\Marco\u0027s documents\\FTN Studije\\VI semestar\\SNUS\\KT1\\KT1\\SystemConfig.xml",
+              "RelativeToolTip": "KT1\\SystemConfig.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-16T21:52:27.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SystemConfigParser.cs",
+              "DocumentMoniker": "E:\\Marco\u0027s documents\\FTN Studije\\VI semestar\\SNUS\\KT1\\KT1\\config\\SystemConfigParser.cs",
+              "RelativeDocumentMoniker": "KT1\\config\\SystemConfigParser.cs",
+              "ToolTip": "E:\\Marco\u0027s documents\\FTN Studije\\VI semestar\\SNUS\\KT1\\KT1\\config\\SystemConfigParser.cs",
+              "RelativeToolTip": "KT1\\config\\SystemConfigParser.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T04:04:45.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProcessingSystem.cs",
+              "DocumentMoniker": "E:\\Marco\u0027s documents\\FTN Studije\\VI semestar\\SNUS\\KT1\\KT1\\core\\ProcessingSystem.cs",
+              "RelativeDocumentMoniker": "KT1\\core\\ProcessingSystem.cs",
+              "ToolTip": "E:\\Marco\u0027s documents\\FTN Studije\\VI semestar\\SNUS\\KT1\\KT1\\core\\ProcessingSystem.cs*",
+              "RelativeToolTip": "KT1\\core\\ProcessingSystem.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowB8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T03:47:26.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobHandle.cs",
+              "DocumentMoniker": "E:\\Marco\u0027s documents\\FTN Studije\\VI semestar\\SNUS\\KT1\\KT1\\model\\JobHandle.cs",
+              "RelativeDocumentMoniker": "KT1\\model\\JobHandle.cs",
+              "ToolTip": "E:\\Marco\u0027s documents\\FTN Studije\\VI semestar\\SNUS\\KT1\\KT1\\model\\JobHandle.cs",
+              "RelativeToolTip": "KT1\\model\\JobHandle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T03:45:42.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Job.cs",
+              "DocumentMoniker": "E:\\Marco\u0027s documents\\FTN Studije\\VI semestar\\SNUS\\KT1\\KT1\\model\\Job.cs",
+              "RelativeDocumentMoniker": "KT1\\model\\Job.cs",
+              "ToolTip": "E:\\Marco\u0027s documents\\FTN Studije\\VI semestar\\SNUS\\KT1\\KT1\\model\\Job.cs",
+              "RelativeToolTip": "KT1\\model\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T03:44:08.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JobType.cs",
+              "DocumentMoniker": "E:\\Marco\u0027s documents\\FTN Studije\\VI semestar\\SNUS\\KT1\\KT1\\model\\JobType.cs",
+              "RelativeDocumentMoniker": "KT1\\model\\JobType.cs",
+              "ToolTip": "E:\\Marco\u0027s documents\\FTN Studije\\VI semestar\\SNUS\\KT1\\KT1\\model\\JobType.cs",
+              "RelativeToolTip": "KT1\\model\\JobType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T03:39:33.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Marco\u0027s documents\\FTN Studije\\VI semestar\\SNUS\\KT1\\KT1\\Program.cs",
+              "RelativeDocumentMoniker": "KT1\\Program.cs",
+              "ToolTip": "E:\\Marco\u0027s documents\\FTN Studije\\VI semestar\\SNUS\\KT1\\KT1\\Program.cs",
+              "RelativeToolTip": "KT1\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAwEAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T21:15:59.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
