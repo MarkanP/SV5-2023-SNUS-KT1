@@ -89,7 +89,7 @@ class Program
         string payload = type switch
         {
             JobType.Prime => $"numbers:{rand.Next(1000, 5000)},threads:{rand.Next(1, 9)}",
-            JobType.IO => $"delay:{rand.Next(100, 1000)}",
+            JobType.IO => $"delay:{rand.Next(1000, 2500)}",
             _ => ""
         };
         return new Job

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report>
+  <JobType Type="Prime">
+    <TotalExecuted>318</TotalExecuted>
+    <AverageTime>0.7637097484276727</AverageTime>
+    <FailedCount>0</FailedCount>
+  </JobType>
+  <JobType Type="IO">
+    <TotalExecuted>87</TotalExecuted>
+    <AverageTime>1644.7742954022983</AverageTime>
+    <FailedCount>261</FailedCount>
+  </JobType>
+</Report>
