@@ -8,8 +8,17 @@ class Program
 {
     static async Task Main(string[] args)
     {
+        Console.WriteLine("==============================");
+        Console.WriteLine("Starting the application...");
+        Console.WriteLine("==============================");
+        await Task.Delay(1000);
+        Console.WriteLine("Configuring...");
+        Console.WriteLine("==============================");
+        await Task.Delay(1000);
         var config = SystemConfigParser.Parse("SystemConfig.xml");
-
+        Console.WriteLine("Initializing the system...");
+        Console.WriteLine("==============================");
+        await Task.Delay(1000);
         var reportService = new ReportService();
 
         var system = new ProcessingSystem(
@@ -48,9 +57,14 @@ class Program
             }
         }
 
+        Console.WriteLine("Running producers...");
+        Console.WriteLine("==============================");
+        await Task.Delay(1000);
+        Console.WriteLine("Application is running. For more info check logs and reports. Press Ctrl+C to exit.");
+
         for (int i = 0; i < config.WorkerCount; i++)
         {
-            Task.Run(async () =>
+            await Task.Run(async () =>
             {
                 var rand = Random.Shared;
 
@@ -71,6 +85,7 @@ class Program
                 }
             });
         }
+        
         var cts = new CancellationTokenSource();
 
         Console.CancelKeyPress += (s, e) =>
