@@ -64,7 +64,7 @@ class Program
 
         for (int i = 0; i < config.WorkerCount; i++)
         {
-            await Task.Run(async () =>
+            Task.Run(async () =>
             {
                 var rand = Random.Shared;
 
@@ -93,8 +93,15 @@ class Program
             e.Cancel = true;
             cts.Cancel();
         };
-
-        await Task.Delay(Timeout.Infinite, cts.Token);
+        try
+        {
+            await Task.Delay(Timeout.Infinite, cts.Token);
+        }
+        catch
+        {
+            Console.WriteLine("Process finished");
+        }
+        
     }
 
     static Job GenerateRandomJob(Random rand)

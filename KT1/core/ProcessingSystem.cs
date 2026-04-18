@@ -33,8 +33,6 @@ namespace KT1.core
                 _workers.Add(worker);
                 worker.Start();
             }
-
-            _report = report;
         }
 
         public JobHandle Submit(Job job) {
